@@ -1,2 +1,3 @@
 # csvtojson-go
-Convert any CSV file into Nested Json in golang
+
+Convert CSV file into JSON or YAML
